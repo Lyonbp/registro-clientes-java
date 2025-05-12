@@ -5,7 +5,7 @@
 Aplicación de consola para gestionar clientes con persistencia en archivos.
 
 ## 🚀 Características
-- **CRUD completo**: Crear y leer los registros de los clientes.
+- **CRUD en proceso**: Crear y leer los registros de los clientes, (EDITAR - ELIMINAR) en proceso.
 - **Validaciones**: DNI (8 dígitos), nombre (no vacío) y email(no vacio).
 - **Guardar los datos**: Se guuardan los datos en `data/clientes.txt`.
 
